@@ -1,6 +1,8 @@
 # Analyzing_Student_Behaviour_And_Attitude_Data_Science
 
 #Overview
+
+
 The "Analyzing Student Attitude and Behavior" project aims to explore the relationship between various factors and student performance, behavior, and attitudes. By leveraging machine learning techniques and data analysis, this project seeks to uncover insights that can help educators better understand and support their students.
 Problem Statement
 In education, understanding student behavior and attitudes is crucial for creating effective learning environments and interventions. However, traditional methods of assessing student attitudes and behaviors can be time-consuming and subjective. By using data-driven approaches, this project seeks to provide educators with tools to identify patterns and trends in student behavior and attitudes.
